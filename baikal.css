@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.header {
+    height: 80px;
+    background-image: url(images/header.jpg);
+    background-repeat: no-repeat;
+}
+p {
+    margin: 5px;
+    text-indent: 20px;
+}
+.links{
+    text-align: right;
+}
+.pogoda {
+    width: 150px;
+    float: left;
+    margin-left: 10px;
+}
