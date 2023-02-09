@@ -6,6 +6,7 @@
     height: 80px;
     background-image: url(images/header.jpg);
     background-repeat: no-repeat;
+    padding: 10px 0 30px 240px;
 }
 p {
     margin: 5px;
@@ -13,9 +14,25 @@ p {
 }
 .links{
     text-align: right;
+    margin-left: 150px;
+    margin-right: 230px;    
 }
 .pogoda {
     width: 150px;
     float: left;
     margin-left: 10px;
+}
+.photo {
+    width: 220px;
+    float: right;
+}
+.content {
+    margin-left: 150px;
+    margin-right: 225px;
+}
+.footer {
+    background-color: #CCCCCC;
+    clear: both;
+    text-align: center;
+    padding: 5px 0 10px 0;
 }
